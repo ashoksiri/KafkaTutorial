@@ -1,4 +1,4 @@
-package com.msr.kafka.test.cases;
+package com.ashok.kafka.test.cases;
 
 import java.io.BufferedWriter;
 import java.io.File;

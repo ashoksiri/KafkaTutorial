@@ -1,4 +1,4 @@
-package com.msr.kafka.topics;
+package com.ashok.kafka.topics;
 
 import org.I0Itec.zkclient.ZkClient;
 

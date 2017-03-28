@@ -1,4 +1,4 @@
-package com.msr.kafka.test;
+package com.ashok.kafka.test;
 
 import java.io.UnsupportedEncodingException;
 import java.util.HashMap;

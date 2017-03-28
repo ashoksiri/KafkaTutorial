@@ -1,4 +1,4 @@
-package com.msr.kafka.test;
+package com.ashok.kafka.test;
 
 import java.util.ArrayList;
 import java.util.Iterator;
